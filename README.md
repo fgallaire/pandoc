@@ -1,6 +1,5 @@
-% Pandoc User's Guide
-% John MacFarlane
-% January 19, 2013
+Pandoc User's Guide
+===================
 
 Synopsis
 ========
